@@ -1,0 +1,23 @@
+[
+    {
+        "name": "SHELLY RAWAT",
+        "phone": "98899889",
+        "email": "SR@gmail.com",
+        "tags": "classmate",
+        "favorite": true
+    },
+    {
+        "name": "SK IMAM",
+        "phone": "7887788778",
+        "email": "skimam@gmail.com",
+        "tags": "room-mate",
+        "favorite": true
+    },
+    {
+        "name": "GAURAV KUMAR",
+        "phone": "878787878",
+        "email": "GKC@gmail.com",
+        "tags": "me",
+        "favorite": true
+    }
+]
